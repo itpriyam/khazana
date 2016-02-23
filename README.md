@@ -1,1 +1,1 @@
-# khazana wordpress project 
+# khazana
