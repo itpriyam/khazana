@@ -1,0 +1,114 @@
+02-22-2016 @ 08:22:13 - > > (509) Term Furniture (product_cat) exists? -
+02-22-2016 @ 08:22:13 - > > (509) Term Tables (product_cat) exists? -
+02-22-2016 @ 08:22:13 - > > (509) Term Consoles (product_cat) exists? -
+02-22-2016 @ 08:22:14 - > > (509) Term Seating (product_cat) exists? -
+02-22-2016 @ 08:22:14 - > > (509) Term Dining Chairs (product_cat) exists? -
+02-22-2016 @ 08:22:16 - > > (509) Term Side Tables (product_cat) exists? -
+02-22-2016 @ 08:23:21 - > > (509) Term Furniture (product_cat) exists? Array
+(
+    [term_id] => 18
+    [term_taxonomy_id] => 18
+)
+
+02-22-2016 @ 08:23:21 - > > (509) Term Tables (product_cat) exists? Array
+(
+    [term_id] => 19
+    [term_taxonomy_id] => 19
+)
+
+02-22-2016 @ 08:23:21 - > > (509) Term Consoles (product_cat) exists? Array
+(
+    [term_id] => 20
+    [term_taxonomy_id] => 20
+)
+
+02-22-2016 @ 08:23:23 - > > (509) Term Seating (product_cat) exists? Array
+(
+    [term_id] => 21
+    [term_taxonomy_id] => 21
+)
+
+02-22-2016 @ 08:23:23 - > > (509) Term Dining Chairs (product_cat) exists? Array
+(
+    [term_id] => 22
+    [term_taxonomy_id] => 22
+)
+
+02-22-2016 @ 08:23:30 - > > (509) Term Side Tables (product_cat) exists? Array
+(
+    [term_id] => 23
+    [term_taxonomy_id] => 23
+)
+
+02-22-2016 @ 08:26:06 - > > (509) Term Furniture (product_cat) exists? Array
+(
+    [term_id] => 18
+    [term_taxonomy_id] => 18
+)
+
+02-22-2016 @ 08:26:06 - > > (509) Term Tables (product_cat) exists? Array
+(
+    [term_id] => 19
+    [term_taxonomy_id] => 19
+)
+
+02-22-2016 @ 08:26:06 - > > (509) Term Consoles (product_cat) exists? Array
+(
+    [term_id] => 20
+    [term_taxonomy_id] => 20
+)
+
+02-22-2016 @ 08:26:06 - > > (509) Term Seating (product_cat) exists? Array
+(
+    [term_id] => 21
+    [term_taxonomy_id] => 21
+)
+
+02-22-2016 @ 08:26:06 - > > (509) Term Dining Chairs (product_cat) exists? Array
+(
+    [term_id] => 22
+    [term_taxonomy_id] => 22
+)
+
+02-22-2016 @ 08:26:06 - > > (509) Term Side Tables (product_cat) exists? Array
+(
+    [term_id] => 23
+    [term_taxonomy_id] => 23
+)
+
+02-22-2016 @ 08:29:08 - > > (509) Term Furniture (product_cat) exists? Array
+(
+    [term_id] => 18
+    [term_taxonomy_id] => 18
+)
+
+02-22-2016 @ 08:29:08 - > > (509) Term Tables (product_cat) exists? Array
+(
+    [term_id] => 19
+    [term_taxonomy_id] => 19
+)
+
+02-22-2016 @ 08:29:08 - > > (509) Term Consoles (product_cat) exists? Array
+(
+    [term_id] => 20
+    [term_taxonomy_id] => 20
+)
+
+02-22-2016 @ 08:30:05 - > > (509) Term Furniture (product_cat) exists? Array
+(
+    [term_id] => 18
+    [term_taxonomy_id] => 18
+)
+
+02-22-2016 @ 08:30:05 - > > (509) Term Tables (product_cat) exists? Array
+(
+    [term_id] => 19
+    [term_taxonomy_id] => 19
+)
+
+02-22-2016 @ 08:30:05 - > > (509) Term Consoles (product_cat) exists? Array
+(
+    [term_id] => 20
+    [term_taxonomy_id] => 20
+)
+

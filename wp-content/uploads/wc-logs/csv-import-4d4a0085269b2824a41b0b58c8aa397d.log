@@ -1,0 +1,247 @@
+02-22-2016 @ 08:22:13 - ---[ New Import ] PHP Memory: 128 MB, WP Memory: 96 MB
+02-22-2016 @ 08:22:13 - Parsing products CSV.
+02-22-2016 @ 08:22:13 - Finished parsing products CSV.
+02-22-2016 @ 08:22:13 - ---
+02-22-2016 @ 08:22:13 - Processing products.
+02-22-2016 @ 08:22:13 - > Row 1 - preparing for import.
+02-22-2016 @ 08:22:13 - > &#8220;1&#8221; ID already exists.
+02-22-2016 @ 08:22:13 - > Row 2 - preparing for import.
+02-22-2016 @ 08:22:14 - > &#8220;2&#8221; ID already exists.
+02-22-2016 @ 08:22:14 - > Row 3 - preparing for import.
+02-22-2016 @ 08:22:14 - > Inserting Seared Oak Eska Dining Chair
+02-22-2016 @ 08:22:14 - > Inserted - post ID is 3.
+02-22-2016 @ 08:22:15 - > > Importing image "DCH_1001_Seared_Eska_Front.jpg"
+02-22-2016 @ 08:22:15 - > > Error importing image "DCH_1001_Seared_Eska_Front.jpg"
+02-22-2016 @ 08:22:15 - > > Local image did not exist!
+02-22-2016 @ 08:22:15 - > > Importing image "DCH_1001_Seared_Eska_Front_Right.jpg"
+02-22-2016 @ 08:22:15 - > > Error importing image "DCH_1001_Seared_Eska_Front_Right.jpg"
+02-22-2016 @ 08:22:15 - > > Local image did not exist!
+02-22-2016 @ 08:22:15 - > > Importing image "DCH_1001_Seared_Eska_Side.jpg"
+02-22-2016 @ 08:22:15 - > > Error importing image "DCH_1001_Seared_Eska_Side.jpg"
+02-22-2016 @ 08:22:15 - > > Local image did not exist!
+02-22-2016 @ 08:22:15 - > > Images set
+02-22-2016 @ 08:22:16 - > Finished importing post ID 3.
+02-22-2016 @ 08:22:16 - > Row 4 - preparing for import.
+02-22-2016 @ 08:22:16 - > &#8220;4&#8221; ID already exists.
+02-22-2016 @ 08:22:16 - > Row 5 - preparing for import.
+02-22-2016 @ 08:22:16 - > &#8220;5&#8221; ID already exists.
+02-22-2016 @ 08:22:16 - > Row 6 - preparing for import.
+02-22-2016 @ 08:22:16 - > &#8220;6&#8221; ID already exists.
+02-22-2016 @ 08:22:16 - > Row 7 - preparing for import.
+02-22-2016 @ 08:22:16 - > &#8220;7&#8221; ID already exists.
+02-22-2016 @ 08:22:16 - > Row 8 - preparing for import.
+02-22-2016 @ 08:22:16 - > &#8220;8&#8221; ID already exists.
+02-22-2016 @ 08:22:16 - > Row 9 - preparing for import.
+02-22-2016 @ 08:22:16 - > &#8220;9&#8221; ID already exists.
+02-22-2016 @ 08:22:16 - Finished processing products.
+02-22-2016 @ 08:22:17 - ---[ New Import ] PHP Memory: 128 MB, WP Memory: 96 MB
+02-22-2016 @ 08:22:17 - Parsing products CSV.
+02-22-2016 @ 08:22:17 - Finished parsing products CSV.
+02-22-2016 @ 08:22:17 - ---
+02-22-2016 @ 08:22:17 - Processing products.
+02-22-2016 @ 08:22:17 - > Row 1 - preparing for import.
+02-22-2016 @ 08:22:17 - > &#8220;10&#8221; ID already exists.
+02-22-2016 @ 08:22:17 - Finished processing products.
+02-22-2016 @ 08:23:21 - ---[ New Import ] PHP Memory: 128 MB, WP Memory: 96 MB
+02-22-2016 @ 08:23:21 - Parsing products CSV.
+02-22-2016 @ 08:23:21 - Finished parsing products CSV.
+02-22-2016 @ 08:23:21 - ---
+02-22-2016 @ 08:23:21 - Processing products.
+02-22-2016 @ 08:23:21 - > Row 1 - preparing for import.
+02-22-2016 @ 08:23:21 - > Inserting Seared Oak Zola Console
+02-22-2016 @ 08:23:21 - > Inserted - post ID is 142.
+02-22-2016 @ 08:23:23 - > > Importing image "http://localhost/wordpress/catalog1/CON1001_Seared_Zola_Console_Front.jpg"
+02-22-2016 @ 08:23:23 - > > Inserted image attachment "http://localhost/wordpress/catalog1/CON1001_Seared_Zola_Console_Front.jpg"
+02-22-2016 @ 08:23:23 - > > Imported image "http://localhost/wordpress/catalog1/CON1001_Seared_Zola_Console_Front.jpg"
+02-22-2016 @ 08:23:23 - > > Images set
+02-22-2016 @ 08:23:23 - > Finished importing post ID 142.
+02-22-2016 @ 08:23:23 - > Row 2 - preparing for import.
+02-22-2016 @ 08:23:23 - > Inserting Raw Oak Zola Console
+02-22-2016 @ 08:23:23 - > Inserted - post ID is 144.
+02-22-2016 @ 08:23:25 - > > Importing image "http://localhost/wordpress/catalog1/CON1002_Raw_Zola_Console_Front.jpg"
+02-22-2016 @ 08:23:25 - > > Inserted image attachment "http://localhost/wordpress/catalog1/CON1002_Raw_Zola_Console_Front.jpg"
+02-22-2016 @ 08:23:25 - > > Imported image "http://localhost/wordpress/catalog1/CON1002_Raw_Zola_Console_Front.jpg"
+02-22-2016 @ 08:23:25 - > > Images set
+02-22-2016 @ 08:23:25 - > Finished importing post ID 144.
+02-22-2016 @ 08:23:25 - > Row 3 - preparing for import.
+02-22-2016 @ 08:23:25 - > Inserting Seared Oak Eska Dining Chair
+02-22-2016 @ 08:23:25 - > Inserted - post ID is 146.
+02-22-2016 @ 08:23:27 - > > Importing image "http://localhost/wordpress/catalog1/DCH_1001_Seared_Eska_Front.jpg"
+02-22-2016 @ 08:23:27 - > > Inserted image attachment "http://localhost/wordpress/catalog1/DCH_1001_Seared_Eska_Front.jpg"
+02-22-2016 @ 08:23:27 - > > Imported image "http://localhost/wordpress/catalog1/DCH_1001_Seared_Eska_Front.jpg"
+02-22-2016 @ 08:23:28 - > > Importing image "http://localhost/wordpress/catalog1/DCH_1001_Seared_Eska_Front_Right.jpg"
+02-22-2016 @ 08:23:28 - > > Inserted image attachment "http://localhost/wordpress/catalog1/DCH_1001_Seared_Eska_Front_Right.jpg"
+02-22-2016 @ 08:23:28 - > > Imported image "http://localhost/wordpress/catalog1/DCH_1001_Seared_Eska_Front_Right.jpg"
+02-22-2016 @ 08:23:28 - > > Importing image "http://localhost/wordpress/catalog1/DCH_1001_Seared_Eska_Side.jpg"
+02-22-2016 @ 08:23:28 - > > Inserted image attachment "http://localhost/wordpress/catalog1/DCH_1001_Seared_Eska_Side.jpg"
+02-22-2016 @ 08:23:28 - > > Imported image "http://localhost/wordpress/catalog1/DCH_1001_Seared_Eska_Side.jpg"
+02-22-2016 @ 08:23:28 - > > Images set
+02-22-2016 @ 08:23:28 - > Finished importing post ID 146.
+02-22-2016 @ 08:23:28 - > Row 4 - preparing for import.
+02-22-2016 @ 08:23:28 - > Inserting Raw Oak Eska Dining Chair
+02-22-2016 @ 08:23:28 - > Inserted - post ID is 150.
+02-22-2016 @ 08:23:30 - > Finished importing post ID 150.
+02-22-2016 @ 08:23:30 - > Row 5 - preparing for import.
+02-22-2016 @ 08:23:30 - > Inserting Seared Oak Turned Dining Chair
+02-22-2016 @ 08:23:30 - > Inserted - post ID is 151.
+02-22-2016 @ 08:23:32 - > > Importing image "http://localhost/wordpress/catalog1/DCH1101_Turned_Front.jpg"
+02-22-2016 @ 08:23:32 - > > Inserted image attachment "http://localhost/wordpress/catalog1/DCH1101_Turned_Front.jpg"
+02-22-2016 @ 08:23:32 - > > Imported image "http://localhost/wordpress/catalog1/DCH1101_Turned_Front.jpg"
+02-22-2016 @ 08:23:32 - > > Importing image "http://localhost/wordpress/catalog1/DCH1101_Turned_Front_Right.jpg"
+02-22-2016 @ 08:23:32 - > > Inserted image attachment "http://localhost/wordpress/catalog1/DCH1101_Turned_Front_Right.jpg"
+02-22-2016 @ 08:23:32 - > > Imported image "http://localhost/wordpress/catalog1/DCH1101_Turned_Front_Right.jpg"
+02-22-2016 @ 08:23:32 - > > Importing image "http://localhost/wordpress/catalog1/DCH1101_Turned_Side.jpg"
+02-22-2016 @ 08:23:32 - > > Inserted image attachment "http://localhost/wordpress/catalog1/DCH1101_Turned_Side.jpg"
+02-22-2016 @ 08:23:32 - > > Imported image "http://localhost/wordpress/catalog1/DCH1101_Turned_Side.jpg"
+02-22-2016 @ 08:23:32 - > > Images set
+02-22-2016 @ 08:23:32 - > Finished importing post ID 151.
+02-22-2016 @ 08:23:32 - > Row 6 - preparing for import.
+02-22-2016 @ 08:23:32 - > Inserting MyLoft Sofa
+02-22-2016 @ 08:23:32 - Failed to import product &#8220;MyLoft Sofa&#8221;
+02-22-2016 @ 08:23:32 - > Row 7 - preparing for import.
+02-22-2016 @ 08:23:32 - > Inserting StackedBooks Side Table
+02-22-2016 @ 08:23:32 - > Inserted - post ID is 155.
+02-22-2016 @ 08:23:34 - > > Importing image "http://localhost/wordpress/catalog1/STH1001_StackedBooks_Front.jpg"
+02-22-2016 @ 08:23:34 - > > Inserted image attachment "http://localhost/wordpress/catalog1/STH1001_StackedBooks_Front.jpg"
+02-22-2016 @ 08:23:34 - > > Imported image "http://localhost/wordpress/catalog1/STH1001_StackedBooks_Front.jpg"
+02-22-2016 @ 08:23:34 - > > Importing image "http://localhost/wordpress/catalog1/STH1001_StackedBooks_Open.jpg"
+02-22-2016 @ 08:23:34 - > > Inserted image attachment "http://localhost/wordpress/catalog1/STH1001_StackedBooks_Open.jpg"
+02-22-2016 @ 08:23:34 - > > Imported image "http://localhost/wordpress/catalog1/STH1001_StackedBooks_Open.jpg"
+02-22-2016 @ 08:23:34 - > > Importing image "http://localhost/wordpress/catalog1/STH1001_StackedBooks_Front_Right.jpg"
+02-22-2016 @ 08:23:34 - > > Inserted image attachment "http://localhost/wordpress/catalog1/STH1001_StackedBooks_Front_Right.jpg"
+02-22-2016 @ 08:23:34 - > > Imported image "http://localhost/wordpress/catalog1/STH1001_StackedBooks_Front_Right.jpg"
+02-22-2016 @ 08:23:35 - > > Images set
+02-22-2016 @ 08:23:35 - > Finished importing post ID 155.
+02-22-2016 @ 08:23:35 - > Row 8 - preparing for import.
+02-22-2016 @ 08:23:35 - > Inserting Ella 1059 Sofa
+02-22-2016 @ 08:23:35 - > Inserted - post ID is 159.
+02-22-2016 @ 08:23:36 - > > Importing image "http://localhost/wordpress/catalog1/SOF1101_Ella_1059_Sofa_Front.jpg"
+02-22-2016 @ 08:23:36 - > > Inserted image attachment "http://localhost/wordpress/catalog1/SOF1101_Ella_1059_Sofa_Front.jpg"
+02-22-2016 @ 08:23:36 - > > Imported image "http://localhost/wordpress/catalog1/SOF1101_Ella_1059_Sofa_Front.jpg"
+02-22-2016 @ 08:23:36 - > > Importing image "http://localhost/wordpress/catalog1/SOF1101_Ella_1059_Sofa_Front_Right.jpg"
+02-22-2016 @ 08:23:36 - > > Inserted image attachment "http://localhost/wordpress/catalog1/SOF1101_Ella_1059_Sofa_Front_Right.jpg"
+02-22-2016 @ 08:23:36 - > > Imported image "http://localhost/wordpress/catalog1/SOF1101_Ella_1059_Sofa_Front_Right.jpg"
+02-22-2016 @ 08:23:36 - > > Importing image "http://localhost/wordpress/catalog1/SOF1101_Ella_1059_Sofa_Side.jpg"
+02-22-2016 @ 08:23:37 - > > Inserted image attachment "http://localhost/wordpress/catalog1/SOF1101_Ella_1059_Sofa_Side.jpg"
+02-22-2016 @ 08:23:37 - > > Imported image "http://localhost/wordpress/catalog1/SOF1101_Ella_1059_Sofa_Side.jpg"
+02-22-2016 @ 08:23:37 - > > Images set
+02-22-2016 @ 08:23:37 - > Finished importing post ID 159.
+02-22-2016 @ 08:23:37 - > Row 9 - preparing for import.
+02-22-2016 @ 08:23:37 - > Inserting Ella 1059 Loveseat
+02-22-2016 @ 08:23:37 - > Inserted - post ID is 163.
+02-22-2016 @ 08:23:38 - > > Importing image "http://localhost/wordpress/catalog1/SOF1201_Ella_1059_Loveseat_Front.jpg"
+02-22-2016 @ 08:23:38 - > > Inserted image attachment "http://localhost/wordpress/catalog1/SOF1201_Ella_1059_Loveseat_Front.jpg"
+02-22-2016 @ 08:23:38 - > > Imported image "http://localhost/wordpress/catalog1/SOF1201_Ella_1059_Loveseat_Front.jpg"
+02-22-2016 @ 08:23:39 - > > Importing image "http://localhost/wordpress/catalog1/SOF1201_Ella_1059_Loveseat_Front_Right.jpg"
+02-22-2016 @ 08:23:39 - > > Inserted image attachment "http://localhost/wordpress/catalog1/SOF1201_Ella_1059_Loveseat_Front_Right.jpg"
+02-22-2016 @ 08:23:39 - > > Imported image "http://localhost/wordpress/catalog1/SOF1201_Ella_1059_Loveseat_Front_Right.jpg"
+02-22-2016 @ 08:23:39 - > > Importing image "http://localhost/wordpress/catalog1/SOF1201_Ella_1059_Loveseat_Side.jpg"
+02-22-2016 @ 08:23:39 - > > Inserted image attachment "http://localhost/wordpress/catalog1/SOF1201_Ella_1059_Loveseat_Side.jpg"
+02-22-2016 @ 08:23:39 - > > Imported image "http://localhost/wordpress/catalog1/SOF1201_Ella_1059_Loveseat_Side.jpg"
+02-22-2016 @ 08:23:39 - > > Images set
+02-22-2016 @ 08:23:39 - > Finished importing post ID 163.
+02-22-2016 @ 08:23:39 - Finished processing products.
+02-22-2016 @ 08:23:41 - ---[ New Import ] PHP Memory: 128 MB, WP Memory: 96 MB
+02-22-2016 @ 08:23:41 - Parsing products CSV.
+02-22-2016 @ 08:23:41 - Finished parsing products CSV.
+02-22-2016 @ 08:23:41 - ---
+02-22-2016 @ 08:23:41 - Processing products.
+02-22-2016 @ 08:23:41 - > Row 1 - preparing for import.
+02-22-2016 @ 08:23:41 - > Inserting Donovan Rocker Recliner
+02-22-2016 @ 08:23:41 - > Inserted - post ID is 167.
+02-22-2016 @ 08:23:43 - > > Importing image "http://localhost/wordpress/catalog1/RCH1001_Donovan_Recliner_Front.jpg"
+02-22-2016 @ 08:23:43 - > > Inserted image attachment "http://localhost/wordpress/catalog1/RCH1001_Donovan_Recliner_Front.jpg"
+02-22-2016 @ 08:23:43 - > > Imported image "http://localhost/wordpress/catalog1/RCH1001_Donovan_Recliner_Front.jpg"
+02-22-2016 @ 08:23:43 - > > Importing image "http://localhost/wordpress/catalog1/RCH1001_Donovan_Recliner_Front_Right.jpg"
+02-22-2016 @ 08:23:43 - > > Inserted image attachment "http://localhost/wordpress/catalog1/RCH1001_Donovan_Recliner_Front_Right.jpg"
+02-22-2016 @ 08:23:43 - > > Imported image "http://localhost/wordpress/catalog1/RCH1001_Donovan_Recliner_Front_Right.jpg"
+02-22-2016 @ 08:23:44 - > > Importing image "http://localhost/wordpress/catalog1/RCH1001_Donovan_Recliner_Side.jpg"
+02-22-2016 @ 08:23:44 - > > Inserted image attachment "http://localhost/wordpress/catalog1/RCH1001_Donovan_Recliner_Side.jpg"
+02-22-2016 @ 08:23:44 - > > Imported image "http://localhost/wordpress/catalog1/RCH1001_Donovan_Recliner_Side.jpg"
+02-22-2016 @ 08:23:44 - > > Images set
+02-22-2016 @ 08:23:44 - > Finished importing post ID 167.
+02-22-2016 @ 08:23:44 - Finished processing products.
+02-22-2016 @ 08:26:06 - ---[ New Import ] PHP Memory: 128 MB, WP Memory: 96 MB
+02-22-2016 @ 08:26:06 - Parsing products CSV.
+02-22-2016 @ 08:26:06 - Finished parsing products CSV.
+02-22-2016 @ 08:26:06 - ---
+02-22-2016 @ 08:26:06 - Processing products.
+02-22-2016 @ 08:26:06 - > Row 1 - preparing for import.
+02-22-2016 @ 08:26:06 - > &#8220;Seared Oak Zola Console&#8221; already exists.
+02-22-2016 @ 08:26:06 - > Row 2 - preparing for import.
+02-22-2016 @ 08:26:06 - > &#8220;Raw Oak Zola Console&#8221; already exists.
+02-22-2016 @ 08:26:06 - > Row 3 - preparing for import.
+02-22-2016 @ 08:26:06 - > &#8220;Seared Oak Eska Dining Chair&#8221; already exists.
+02-22-2016 @ 08:26:06 - > Row 4 - preparing for import.
+02-22-2016 @ 08:26:06 - > &#8220;Raw Oak Eska Dining Chair&#8221; already exists.
+02-22-2016 @ 08:26:06 - > Row 5 - preparing for import.
+02-22-2016 @ 08:26:06 - > &#8220;Seared Oak Turned Dining Chair&#8221; already exists.
+02-22-2016 @ 08:26:06 - > Row 6 - preparing for import.
+02-22-2016 @ 08:26:06 - > Inserting MyLoft Sofa
+02-22-2016 @ 08:26:06 - Failed to import product &#8220;MyLoft Sofa&#8221;
+02-22-2016 @ 08:26:06 - > Row 7 - preparing for import.
+02-22-2016 @ 08:26:06 - > &#8220;StackedBooks Side Table&#8221; already exists.
+02-22-2016 @ 08:26:06 - > Row 8 - preparing for import.
+02-22-2016 @ 08:26:06 - > &#8220;Ella 1059 Sofa&#8221; already exists.
+02-22-2016 @ 08:26:06 - > Row 9 - preparing for import.
+02-22-2016 @ 08:26:06 - > &#8220;Ella 1059 Loveseat&#8221; already exists.
+02-22-2016 @ 08:26:06 - Finished processing products.
+02-22-2016 @ 08:26:07 - ---[ New Import ] PHP Memory: 128 MB, WP Memory: 96 MB
+02-22-2016 @ 08:26:07 - Parsing products CSV.
+02-22-2016 @ 08:26:07 - Finished parsing products CSV.
+02-22-2016 @ 08:26:07 - ---
+02-22-2016 @ 08:26:07 - Processing products.
+02-22-2016 @ 08:26:07 - > Row 1 - preparing for import.
+02-22-2016 @ 08:26:07 - > &#8220;Donovan Rocker Recliner&#8221; already exists.
+02-22-2016 @ 08:26:07 - Finished processing products.
+02-22-2016 @ 08:26:56 - ---[ New Import ] PHP Memory: 128 MB, WP Memory: 96 MB
+02-22-2016 @ 08:26:56 - Parsing products CSV.
+02-22-2016 @ 08:26:56 - Finished parsing products CSV.
+02-22-2016 @ 08:26:56 - ---
+02-22-2016 @ 08:26:56 - Processing products.
+02-22-2016 @ 08:26:56 - > Row 1 - preparing for import.
+02-22-2016 @ 08:26:56 - > Inserting MyLoft Sofa
+02-22-2016 @ 08:26:56 - Failed to import product &#8220;MyLoft Sofa&#8221;
+02-22-2016 @ 08:26:56 - Finished processing products.
+02-22-2016 @ 08:29:08 - ---[ New Import ] PHP Memory: 128 MB, WP Memory: 96 MB
+02-22-2016 @ 08:29:08 - Parsing products CSV.
+02-22-2016 @ 08:29:08 - Finished parsing products CSV.
+02-22-2016 @ 08:29:08 - ---
+02-22-2016 @ 08:29:08 - Processing products.
+02-22-2016 @ 08:29:08 - > Row 1 - preparing for import.
+02-22-2016 @ 08:29:08 - > Inserting MyLoft Sofa
+02-22-2016 @ 08:29:08 - Failed to import product &#8220;MyLoft Sofa&#8221;
+02-22-2016 @ 08:29:08 - Finished processing products.
+02-22-2016 @ 08:30:05 - ---[ New Import ] PHP Memory: 128 MB, WP Memory: 96 MB
+02-22-2016 @ 08:30:05 - Parsing products CSV.
+02-22-2016 @ 08:30:05 - Finished parsing products CSV.
+02-22-2016 @ 08:30:05 - ---
+02-22-2016 @ 08:30:05 - Processing products.
+02-22-2016 @ 08:30:05 - > Row 1 - preparing for import.
+02-22-2016 @ 08:30:05 - > Inserting MyLoft Sofa
+02-22-2016 @ 08:30:06 - > Inserted - post ID is 176.
+02-22-2016 @ 08:30:07 - > Finished importing post ID 176.
+02-22-2016 @ 08:30:07 - Finished processing products.
+02-22-2016 @ 09:09:51 - ---[ New Import ] PHP Memory: 128 MB, WP Memory: 96 MB
+02-22-2016 @ 09:09:51 - Parsing products CSV.
+02-22-2016 @ 09:09:51 - Finished parsing products CSV.
+02-22-2016 @ 09:09:51 - ---
+02-22-2016 @ 09:09:51 - Processing products.
+02-22-2016 @ 09:09:51 - > Row 1 - preparing for import.
+02-22-2016 @ 09:09:51 - > Inserting MyLoft Sofa
+02-22-2016 @ 09:09:51 - > Inserted - post ID is 179.
+02-22-2016 @ 09:09:53 - > > Importing image "http://localhost/wordpress/catalog1/SOF1001_MyLoft_Front.jpg"
+02-22-2016 @ 09:09:54 - > > Inserted image attachment "http://localhost/wordpress/catalog1/SOF1001_MyLoft_Front.jpg"
+02-22-2016 @ 09:09:54 - > > Imported image "http://localhost/wordpress/catalog1/SOF1001_MyLoft_Front.jpg"
+02-22-2016 @ 09:09:54 - > > Importing image "http://localhost/wordpress/catalog1/SOF1001_MyLoft_Front_2.jpg"
+02-22-2016 @ 09:09:54 - > > Inserted image attachment "http://localhost/wordpress/catalog1/SOF1001_MyLoft_Front_2.jpg"
+02-22-2016 @ 09:09:54 - > > Imported image "http://localhost/wordpress/catalog1/SOF1001_MyLoft_Front_2.jpg"
+02-22-2016 @ 09:09:54 - > > Importing image "http://localhost/wordpress/catalog1/SOF1001_MyLoft_Front_Right.jpg"
+02-22-2016 @ 09:09:54 - > > Inserted image attachment "http://localhost/wordpress/catalog1/SOF1001_MyLoft_Front_Right.jpg"
+02-22-2016 @ 09:09:54 - > > Imported image "http://localhost/wordpress/catalog1/SOF1001_MyLoft_Front_Right.jpg"
+02-22-2016 @ 09:09:54 - > > Importing image "http://localhost/wordpress/catalog1/SOF1001_MyLoft_Side.jpg"
+02-22-2016 @ 09:09:54 - > > Inserted image attachment "http://localhost/wordpress/catalog1/SOF1001_MyLoft_Side.jpg"
+02-22-2016 @ 09:09:54 - > > Imported image "http://localhost/wordpress/catalog1/SOF1001_MyLoft_Side.jpg"
+02-22-2016 @ 09:09:54 - > > Images set
+02-22-2016 @ 09:09:54 - > Finished importing post ID 179.
+02-22-2016 @ 09:09:54 - Finished processing products.
